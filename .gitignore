@@ -1,5 +1,7 @@
 # Comentários começam com cerquilha (#)
 
+node_modules/
+
 # Ignorar arquivos temporários
 *.tmp
 
